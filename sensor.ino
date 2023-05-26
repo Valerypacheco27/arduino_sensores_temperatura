@@ -1,3 +1,6 @@
+%codigo de unos sensores DHT22 para medir la tempertuta y la humedad
+%cuando se tenga los datos estos seran guardados en una tarjeta sd y guardados en un archivo.css de excel
+
 #include <DHT.h>
 #include "SD.h"
 #include "SPI.h"
